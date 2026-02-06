@@ -135,4 +135,4 @@ Improve UI design
 👩‍💻 Author
 
 Sinchana H J
-MCA Graduate | Python Developer | Machine Learning Enthusiast
+MCA Graduate | Aspiring Software Developer
